@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 0435475cb518e4d32bab7036a4c7a439
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 720
+        width: 141
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4fe2d06b72f4be199b16b234486803
+      internalID: -93252635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 669
+        width: 277
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca247e5213e4ad6951b510245e7f4d
+      internalID: 395992013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 770
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dcd949f1f194654988bc023979e6ea
+      internalID: -1232415642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raw-sheet-clean_15
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 704
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf7a2b406e347df91137ec0d85dd4d
+      internalID: -2083345148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 140
+        width: 333
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56c868b8d4c45be8e2394d70b0d788
+      internalID: -1779680193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raw-sheet-clean_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 299
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200974033fec41c2a6a73b32d0a64eb
+      internalID: -1961410887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 114
+        width: 391
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec85b90d2c10144e7a62cec3662c036c
+      internalID: 384819265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raw-sheet-clean_79
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 305
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5772066e4b641d08c25b51d5d35d92
+      internalID: -654605908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raw-sheet-clean_82
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 293
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68cdc2fa1384a32b4e2cc7199b90d9
+      internalID: 1781363002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raw-sheet-clean_83
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 294
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cde87f337614fffbb99c45fffa32f7
+      internalID: -415475292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raw-sheet-clean_94
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c835318d56a714450aa3d173bef496a9
+      internalID: 268782890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raw-sheet-clean_129
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 146
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9575deefb068344369eabcd129b5942f
+      internalID: 1018417202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 61
+        width: 484
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f699f3a20e724bf68681b3c6c0c7af3
+      internalID: -516582995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -1232415642
+      2: -93252635
+      3: 395992013
+      4: -1779680193
+      5: 384819265
+      6: -516582995
+      raw-sheet-clean_1: 614574175
+      raw-sheet-clean_100: 716781469
+      raw-sheet-clean_101: -1396472870
+      raw-sheet-clean_102: 356927467
+      raw-sheet-clean_103: -1129900561
+      raw-sheet-clean_104: -868083914
+      raw-sheet-clean_105: -1994975259
+      raw-sheet-clean_106: 2058145477
+      raw-sheet-clean_107: 1434502623
+      raw-sheet-clean_108: 1931805882
+      raw-sheet-clean_109: 1957074445
+      raw-sheet-clean_11: -993712076
+      raw-sheet-clean_110: -595831651
+      raw-sheet-clean_111: -2069546850
+      raw-sheet-clean_112: -691715837
+      raw-sheet-clean_113: 2017152508
+      raw-sheet-clean_114: 314658672
+      raw-sheet-clean_115: 625221782
+      raw-sheet-clean_116: 1592126529
+      raw-sheet-clean_117: 559364916
+      raw-sheet-clean_118: -1263862004
+      raw-sheet-clean_119: -1534389703
+      raw-sheet-clean_12: 1670089288
+      raw-sheet-clean_120: -276060499
+      raw-sheet-clean_121: -1653709106
+      raw-sheet-clean_122: 957946263
+      raw-sheet-clean_123: 306051508
+      raw-sheet-clean_124: 1498350686
+      raw-sheet-clean_125: -1855626661
+      raw-sheet-clean_126: -1660039063
+      raw-sheet-clean_127: 1307166899
+      raw-sheet-clean_128: 1833403142
+      raw-sheet-clean_129: 1018417202
+      raw-sheet-clean_13: -68687169
+      raw-sheet-clean_130: 1704453152
+      raw-sheet-clean_131: 691152194
+      raw-sheet-clean_132: 600638933
+      raw-sheet-clean_133: -1993195809
+      raw-sheet-clean_134: 1098007282
+      raw-sheet-clean_135: -125230160
+      raw-sheet-clean_136: 2050094835
+      raw-sheet-clean_137: -187287514
+      raw-sheet-clean_138: 1550953833
+      raw-sheet-clean_139: -432784658
+      raw-sheet-clean_14: 1964233377
+      raw-sheet-clean_140: 1086404063
+      raw-sheet-clean_141: -18327611
+      raw-sheet-clean_142: 99300487
+      raw-sheet-clean_143: -2145126621
+      raw-sheet-clean_144: -477204813
+      raw-sheet-clean_145: -902817838
+      raw-sheet-clean_146: 1914804479
+      raw-sheet-clean_15: -2083345148
+      raw-sheet-clean_16: 792346482
+      raw-sheet-clean_17: -104898518
+      raw-sheet-clean_18: -428996660
+      raw-sheet-clean_19: 351160094
+      raw-sheet-clean_2: 1944410876
+      raw-sheet-clean_20: -76027221
+      raw-sheet-clean_21: -658772758
+      raw-sheet-clean_22: -933314797
+      raw-sheet-clean_23: 630687010
+      raw-sheet-clean_24: -1614977063
+      raw-sheet-clean_25: -30490750
+      raw-sheet-clean_26: 940854833
+      raw-sheet-clean_27: -1849239656
+      raw-sheet-clean_28: -1170654732
+      raw-sheet-clean_29: 752380049
+      raw-sheet-clean_3: 1803593858
+      raw-sheet-clean_30: 1400117457
+      raw-sheet-clean_31: -894411148
+      raw-sheet-clean_32: 1769009367
+      raw-sheet-clean_33: -810591999
+      raw-sheet-clean_34: 1472808484
+      raw-sheet-clean_35: 750196210
+      raw-sheet-clean_36: -1753269640
+      raw-sheet-clean_37: 1687363157
+      raw-sheet-clean_38: -1727991267
+      raw-sheet-clean_39: -1958009533
+      raw-sheet-clean_4: -1355205599
+      raw-sheet-clean_40: -1694866901
+      raw-sheet-clean_41: -293370112
+      raw-sheet-clean_42: -197709198
+      raw-sheet-clean_43: -95244722
+      raw-sheet-clean_44: 803163772
+      raw-sheet-clean_45: -2098183915
+      raw-sheet-clean_46: 767438398
+      raw-sheet-clean_47: 1298923286
+      raw-sheet-clean_48: -912054810
+      raw-sheet-clean_49: -1485577021
+      raw-sheet-clean_5: -693861591
+      raw-sheet-clean_50: 665823987
+      raw-sheet-clean_51: -1412590836
+      raw-sheet-clean_52: 1385038466
+      raw-sheet-clean_53: 1036802036
+      raw-sheet-clean_54: -202818912
+      raw-sheet-clean_55: 489638409
+      raw-sheet-clean_56: 1492559624
+      raw-sheet-clean_57: 1076821463
+      raw-sheet-clean_58: 1828159858
+      raw-sheet-clean_59: 1469830905
+      raw-sheet-clean_6: 627103063
+      raw-sheet-clean_60: 2042816257
+      raw-sheet-clean_61: 107967530
+      raw-sheet-clean_62: 1916977271
+      raw-sheet-clean_63: 1210141153
+      raw-sheet-clean_64: 1731106542
+      raw-sheet-clean_65: 385350927
+      raw-sheet-clean_66: 919754133
+      raw-sheet-clean_67: 1123054376
+      raw-sheet-clean_68: 1020223478
+      raw-sheet-clean_69: 1600073526
+      raw-sheet-clean_70: -1361885443
+      raw-sheet-clean_71: -691385344
+      raw-sheet-clean_72: 1826470776
+      raw-sheet-clean_73: 1027085422
+      raw-sheet-clean_74: -494763489
+      raw-sheet-clean_76: -1961410887
+      raw-sheet-clean_78: 1106609210
+      raw-sheet-clean_79: -654605908
+      raw-sheet-clean_80: -2061092348
+      raw-sheet-clean_81: -893286204
+      raw-sheet-clean_82: 1781363002
+      raw-sheet-clean_83: -415475292
+      raw-sheet-clean_84: 120202792
+      raw-sheet-clean_85: 489454241
+      raw-sheet-clean_86: 1312305324
+      raw-sheet-clean_87: -1340331969
+      raw-sheet-clean_88: -1992006662
+      raw-sheet-clean_89: -466726613
+      raw-sheet-clean_9: 2087550809
+      raw-sheet-clean_90: 791434430
+      raw-sheet-clean_91: -1376730675
+      raw-sheet-clean_92: 1779745356
+      raw-sheet-clean_93: -1584865246
+      raw-sheet-clean_94: 268782890
+      raw-sheet-clean_95: 206129784
+      raw-sheet-clean_96: 76468980
+      raw-sheet-clean_97: -94820684
+      raw-sheet-clean_98: 259244576
+      raw-sheet-clean_99: -1701836013
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
