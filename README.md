@@ -36,12 +36,7 @@ Completed systems include:
 - Skill system
 - Level mechanics
 
-Current work:
 
-- Level design
-- Boss polishing
-- Art and animation improvement
-- Final gameplay balancing
 
 ## Main Features
 
@@ -66,6 +61,4 @@ Current work:
 4. Select the project folder.
 5. Open it with Unity 2021.3 or a compatible Unity version.
 
-## Notice
 
-This project is still under development.
